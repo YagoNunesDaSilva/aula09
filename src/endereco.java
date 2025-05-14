@@ -13,7 +13,6 @@ public class endereco {
         this.numero = numero;
     }
 
-    
     public endereco() {
     }
 

@@ -6,11 +6,9 @@ public class contato {
         this.numero = numero;
         this.ddd = ddd;
         this.tipo = tipo;
-    
     }
     
-    public contato(){
-
+    public contato() {
     }
 
     public int getNumero() {
