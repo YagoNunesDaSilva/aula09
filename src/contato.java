@@ -30,5 +30,8 @@ public class contato {
         this.tipo = tipo;
     }
 
-    
+    public String toString() {
+        return "(" + ddd + ") " + numero + "  " + tipo;
+    }
 }
+

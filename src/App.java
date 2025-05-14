@@ -25,6 +25,7 @@ public class App {
        System.out.println(a.getEndereco().getRua());
        System.out.println(a.getEndereco().getCidade());
        System.out.println(a.getDataNascimento());
-       
+       System.out.println(a.getContatos());
+
     }
 }
